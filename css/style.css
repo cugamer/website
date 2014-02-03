@@ -51,13 +51,16 @@ ul.nav li a {
 	margin: 50px 0 75px 0;
 }
 
-#new-cupcakes img {
-	border: 8px solid #faf3bc;
+#cats img {
+	border: 6px solid #faf3bc;
 	margin: 0 0 20px 0;
 }
 
-#featured-cupcake img {
-	border: 8px solid #faf3bc;
+#quirky{
+    width: 600px;
+}
+#quirky img {
+	border: 6px solid #faf3bc;
 }
 
 #copyright {

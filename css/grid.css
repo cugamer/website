@@ -2,21 +2,21 @@
  Width: 1000px
  # Columns : 12 
  Column width: 65px
- Gutter : 20px 
+ Gutter : 24px 
 
  */
-.grid_1 { width: 65px; }
-.grid_2 { width: 150px; }
-.grid_3 { width: 235px; }
-.grid_4 { width: 320px; }
-.grid_5 { width: 405px; }
-.grid_6 { width: 490px; }
-.grid_7 { width: 575px; }
-.grid_8 { width: 660px; }
-.grid_9 { width: 745px; }
-.grid_10 { width: 830px; }
-.grid_11 { width: 915px; }
-.grid_12 { width: 1000px; }
+.grid_1 { width: 99px; }
+.grid_2 { width: 198px; }
+.grid_3 { width: 297px; }
+.grid_4 { width: 396px; }
+.grid_5 { width: 495px; }
+.grid_6 { width: 594px; }
+.grid_7 { width: 693px; }
+.grid_8 { width: 792px; }
+.grid_9 { width: 891px; }
+.grid_10 { width: 990px; }
+.grid_11 { width: 1089px; }
+.grid_12 { width: 1188px; }
 
 .grid_1,
 .grid_2,
@@ -39,7 +39,7 @@
 .omega{margin-right:0px;}
 
 .container{
-	width: 1000px; 
+	width: 1200px; 
 	margin: auto;
 }
 
