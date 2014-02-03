@@ -1,6 +1,6 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #faf3bc;
+	color: #FFFFFF;
 	background-color: #000099;
 }
 
@@ -10,11 +10,13 @@ a {
 }
 
 h1 {
+	font-family: 'Ubuntu Mono', sans-serif;
 	font-size: 1.750em;
 	letter-spacing: -1.5px;
 }
 
 h2 {
+	font-family: 'Ubuntu Mono', sans-serif;
 	font-size: 1.500em;
 	color: #b4c34f;
 }
