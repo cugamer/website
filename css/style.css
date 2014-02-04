@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   font-family: 'Nunito', sans-serif;
   color: #FAF3BC;
   background: #420600 url('img/bg-texture.jpg') repeat;
@@ -82,3 +83,82 @@ ul.nav li a {
 
 
 
+=======
+	font-family: 'Nunito', sans-serif;
+	color: #FFFFFF;
+	background: #420600 url('img/blue_waves.jpg') repeat;
+}
+
+a {
+	color: #4fb69f;
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Ubuntu Mono', sans-serif;
+	font-size: 1.750em;
+	letter-spacing: -1.5px;
+}
+
+h2 {
+	font-family: 'Ubuntu Mono', sans-serif;
+	font-size: 1.500em;
+	color: #b4c34f;
+}
+
+.btn {
+	color: #faf3bc;
+	background: #4fb69f url('img/grey_bg.png') no-repeat right top;
+	padding: 15px 30px;
+	margin: 40px 0;
+	border-radius: 25px;
+	text-transform: uppercase;
+}
+
+.btn:hover {
+	background: #4fb69f url('img/texture.png') no-repeat right top;
+}
+
+ul.nav {
+	margin: 120px 0 0 0;
+	list-style: none;
+	float: right;
+}
+
+ul.nav li {
+	float: left;
+	margin-right: 40px;
+}
+
+ul.nav li a {
+	color: #faf3bc;
+}
+
+#intro {
+	margin: 50px 0 75px 0;
+}
+
+#cats img {
+	border: 6px solid #faf3bc;
+	margin: 0 0 20px 0;
+}
+
+#quirky{
+    width: 600px;
+}
+#quirky img {
+	border: 6px solid #faf3bc;
+}
+
+#copyright {
+	border-top: 8px solid #2a0400;
+	padding: 10px 0;
+	margin: 15px 0;
+	text-align: center;
+}
+
+#scream{
+  margin-top: 25px;
+  margin-bottom: -25px;
+}
+>>>>>>> e1bfb575b911e9c1059372ddf629173d0b6a90ea
